@@ -19,7 +19,7 @@ Test Cases Covered Below:
 
 1. Default Value `F1,R1,B2,L1,B3`
 2. Changed First Alphabet
-3. Use of small words (Only Capitall Allowed)
+3. Use of small words (Only Capital Allowed)
 4. Two Digits input (Only One Word and one Digit is allowed)
 
 
