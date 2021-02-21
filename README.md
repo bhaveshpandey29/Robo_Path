@@ -15,6 +15,8 @@ How to run?
 
 => Sample Input:  `F1,R1,B2,L1,B3`
 
+***Additional Help can be found while loading the .exe file in CMD by using -h, e.g : <Path>\Robo_Path\dist\Robo_Movement.exe -h   
+
 Test Cases Covered Below:
 
 1. Default Value `F1,R1,B2,L1,B3`
