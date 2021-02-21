@@ -13,6 +13,8 @@ How to run?
 - Goto Dist Directory
 - Open "Robo_Movemnet.exe"
 
+To close the application execution press Ctrl+C.
+
 => Sample Input:  `F1,R1,B2,L1,B3`
 
 ***Additional Help can be found while loading the .exe file in CMD by using -h, e.g : <Path>\Robo_Path\dist\Robo_Movement.exe -h   
